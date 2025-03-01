@@ -1,2 +1,2 @@
-# mu-project
+# my-project
 to know github
